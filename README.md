@@ -1,4 +1,5 @@
 # Quality-Guided-Co-Saliency-Estimation-of-Image
+Obtaining the spatial and contrast cues using SLIC superpixels of an Image and Obtaining Quality scores of the cues to get our Saliency Image which can be used for object Detection with efficiency and accuracy. 
 
 Output :
 
